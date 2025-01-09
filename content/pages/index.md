@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Servicio de plomeria
+      label: Servicio de plomeria 1137595593
       color: text-primary
       type: Badge
     elementId: ''
