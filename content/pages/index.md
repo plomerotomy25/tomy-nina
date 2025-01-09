@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Destapaciones de cañeria
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Destapaciones de cañeria y plomeria en todas las zonas de capital federal
+      y alrededores, Atendemos Urgencias las 24hs, Destapamos, baños, cloacas,
+      bachas, sarro, piletas, camara septica, pluviales. en edifio, ph,
+      particulares, empresas, galpones, fabricas, colegios. Servicio de plomero,
+      arreglo de fuga, cambio de llave de agua, todo tipo de arreglo
     actions:
       - label: Get started
         altText: ''
